@@ -1,0 +1,48 @@
+---
+title: ''
+output: 
+    #pdf_document: 
+    bookdown::word_document2: 
+      reference_docx: word-styles-reference.docx #make sure this line is indented! see this guide for formatting: https://rmarkdown.rstudio.com/articles_docx.html
+bibliography: references.bib
+csl: new-phytologist.csl
+
+
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+\raggedright
+
+**Title:** 
+
+**Authors:** 
+
+Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
+
+
+
+
+**Author Affiliations:**
+
+1. Conservation Ecology Center; Smithsonian Conservation Biology Institute; Front Royal, Virginia 22630, USA
+
+2. Forest Global Earth Observatory; Smithsonian Tropical Research Institute; Panama, Republic of Panama
+
+
+
+*corresponding author: teixeirak@si.edu; +1 540 635 6546
+
+\newpage
+
+
+\newpage
+
+# References {-#References}
+
+
+
+

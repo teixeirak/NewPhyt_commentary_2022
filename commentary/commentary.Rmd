@@ -39,7 +39,7 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 \newpage
 
  
-Martínez-Sancho et al. use an innovate approach to …
+@martinez-sancho_drought_2022 use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
  
 There is growing evidence that CO~2~ uptake and woody production are decoupled. 
 ...[@jiang_fate_2020]
@@ -56,6 +56,8 @@ To get models right, we need to understand seasonal patterns of C allocation to 
 (describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)
  
 (talk about drought impacts)
+
+We need more studies like @martinez-sancho_drought_2022 -- bonus if they also get GPP -- to broaden our understanding of how *ANPP~woody~* is jointly shaped by climate-- both directly and indirectly (through GPP).
 
 \newpage
 

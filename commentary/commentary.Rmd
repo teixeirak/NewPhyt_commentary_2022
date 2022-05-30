@@ -42,6 +42,7 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 Martínez-Sancho et al. use an innovate approach to …
  
 There is growing evidence that CO~2~ uptake and woody production are decoupled. 
+...[@jiang_fate_2020]
 ...[@dow_warm_inpress]
 ...[@cabon_crossbiome_2022] 
 …. [@kannenberg_droughtinduced_2022]

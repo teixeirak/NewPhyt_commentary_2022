@@ -28,7 +28,7 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 
 **Author Affiliations:**
 
-1. Conservation Ecology Center; Smithsonian Conservation Biology Institute; Front Royal, Virginia 22630, USA
+1. Conservation Ecology Center; Smithsonian National Zoo & Conservation Biology Institute; Front Royal, Virginia 22630, USA
 
 2. Forest Global Earth Observatory; Smithsonian Tropical Research Institute; Panama, Republic of Panama
 
@@ -36,10 +36,23 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 
 *corresponding author: teixeirak@si.edu; +1 540 635 6546
 
-\newpage
 
- 
-@martinez-sancho_drought_2022 use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
+**keywords:** <!--5-8 keywords. Should be given after references, but .Rmd can't do that.-->
+
+
+
+| | count |
+|--|--|
+|words| | <!--1200– 1500 words -->
+|figures| | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
+|tables| 0 |
+|references | | <!--max 15-->
+
+
+
+\newpage
+<!--The highlighted article should be cited in the first paragraph in the style ‘In this issue of New Phytologist, Smith et al. (pp. 000-000) ...’.-->
+In this issue of New Phytologist, @martinez-sancho_drought_2022 (pp. 000-000) use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
  
 There is growing evidence that CO~2~ uptake and woody production are decoupled. 
 ...[@jiang_fate_2020]
@@ -62,7 +75,7 @@ We need more studies like @martinez-sancho_drought_2022 -- bonus if they also ge
 \newpage
 
 # References {-#References}
-
+<!--The highlighted article should be included in the References section (the page numbers should be listed as 000–000).-->
 
 
 

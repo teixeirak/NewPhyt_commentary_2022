@@ -6,6 +6,8 @@ output:
       reference_docx: word-styles-reference.docx #make sure this line is indented! see this guide for formatting: https://rmarkdown.rstudio.com/articles_docx.html
 bibliography: references.bib
 csl: new-phytologist.csl
+nocite: |
+  @martinez-sancho_drought_2022
 
 
 
@@ -23,6 +25,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 
+Steven A. Kannenberg
+
 
 
 
@@ -37,16 +41,18 @@ Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
 *corresponding author: teixeirak@si.edu; +1 540 635 6546
 
 
-**keywords:** <!--5-8 keywords. Should be given after references, but .Rmd can't do that.-->
+**keywords:** *(5-8)* <!--5-8 keywords. Should be given after references, but .Rmd can't do that.-->
+
+**quote:** *(A brief quote extracted from the Commentary should be included after the article title.)*
 
 
 
 | | count |
 |--|--|
-|words| | <!--1200– 1500 words (~6-10 par) -->
-|figures| | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
+|words|  *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
+|figures|  *(1-2 encouraged)* | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
 |tables| 0 |
-|references | | <!--max 15-->
+|references | *(15 max)* | <!--max 15-->
 
 
 
@@ -58,23 +64,27 @@ Or will increasing heat and drought stress reduce growth and increase mortality,
 To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools and rapidly respired back to the atmosphere as CO~2~ [@ref]. 
 Yet, there is growing evidence that these schemes are too simplistic, as wood production is in fact decoupled from photosynthesis [@refs], being itself directly influenced by climatic drivers [@refs].
 Needed, then, is an understanding of how woody growth is jointly shaped by photosynthesis and climate variables under a range of conditions.
-In this issue of *New Phytologist*, @martinez-sancho_drought_2022 (pp. 000-000) use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
+In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
+This study exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change. 
+
+*(1-2 paragraphs summarizing/ explaining Martinez-Sancho study)*
+
+*(describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)*
  
-There is growing evidence that CO~2~ uptake and woody production are decoupled. 
+*(talk about drought impacts)*
+ 
+The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled. 
 ...[@jiang_fate_2020]
 ...[@dow_warm_inpress]
 ...[@cabon_crossbiome_2022] 
 …. [@kannenberg_droughtinduced_2022]
 Of course, these observations of decoupling do not imply that *ANPP~woody~* is completely decoupled from *GPP*; rather, the two show some level of correlation both in relation to interannual climatic variation at a single site [@cabon_crossbiome_2022] and across broad climatic gradients [@banburymorgan_global_2021]. 
-However, we now have clear evidence that we cannot expect that a constant allocation of photosynthate will be coupled to woody growth, on either intraanuual or interannual time scales.
- 
+However, we now have clear evidence that it is not realistic to expect that a constant allocation of photosynthate will be allocated to woody growth on either intraanuual or interannual time scales.
+
+*(one paragraph discussing models)*
 C allocation to woody growth is an important parameter in models, yet models get it wrong.
 Therefore, this is an important uncertainty.  
 To get models right, we need to understand seasonal patterns of C allocation to woody growth and how they are influenced by climate variation (and change)
- 
-(describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)
- 
-(talk about drought impacts)
 
 We need more studies like @martinez-sancho_drought_2022 -- bonus if they also get GPP -- to broaden our understanding of how *ANPP~woody~* is jointly shaped by climate-- both directly and indirectly (through GPP).
 

@@ -61,17 +61,25 @@ Steven A. Kannenberg
 As the climate changes and scientists seek to project its future course, an important uncertainty lies in the response of forests. 
 Will rising atmospheric carbon dioxide (CO~2~) and lengthening growing seasons relieve limitations to tree growth, allowing increased carbon (C) sequestration in long-lived woody tissues and providing a negative feedback to climate change?
 Or will increasing heat and drought stress reduce growth and increase mortality, resulting in a positive feedback to climate change?
-To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools and rapidly respired back to the atmosphere as CO~2~ [@ref]. 
-Yet, there is growing evidence that these schemes are too simplistic, as wood production is in fact decoupled from photosynthesis [@refs], being itself directly influenced by climatic drivers [@refs].
+To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools and rapidly respired back to the atmosphere as CO~2~ [@fatichi_moving_2014]. 
+Yet, there is growing evidence that these schemes are too simplistic, as wood production is in fact decoupled from photosynthesis, being itself directly influenced by climatic drivers [@delpierre_wood_2016; @etzold_number_2022].
 Needed, then, is an understanding of how woody growth is jointly shaped by photosynthesis and climate variables under a range of conditions.
-In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) use an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
-This study exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change. 
+In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change, using an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
 
-*(1-2 paragraphs summarizing/ explaining Martinez-Sancho study)*
+*(summarize/ explain Martinez-Sancho method)*
+(Builds on methods pioneered by @cuny_generalized_2013, @perez-de-lis_cutting_2022, @cuny_woody_2015.)
 
 *(describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)*
  
 *(talk about drought impacts)*
+@martinez-sancho_drought_2022 showed that C sequestration was reduced 67% during a 41-day period of extreme summer drought in 2015, during which time rates of cell enlargement and thickening were slowed. 
+Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
+However, the total number of cells formed was unchanged, and higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
+Thus, study of intraannual dynamics of wood formation revealed dynamics that would have gone undetected at the annual scale.
+
+The findings of @martinez-sancho_drought_2022 point to the importance of the timing of drought.
+*(some content on how drought timing affects annual growth -- e.g., @dorangeville_drought_2018)*
+
  
 The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled. 
 ...[@jiang_fate_2020]

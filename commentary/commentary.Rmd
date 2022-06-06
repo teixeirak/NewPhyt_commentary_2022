@@ -89,6 +89,10 @@ The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ upta
 Of course, these observations of decoupling do not imply that *ANPP~woody~* is completely decoupled from *GPP*; rather, the two show some level of correlation both in relation to interannual climatic variation at a single site [@cabon_crossbiome_2022] and across broad climatic gradients [@banburymorgan_global_2021]. 
 However, we now have clear evidence that it is not realistic to expect that a constant allocation of photosynthate will be allocated to woody growth on either intraanuual or interannual time scales.
 
+*(active vs passive allocation)*
+
+*(implications for tree-ring studies)*
+
 *(one paragraph discussing models)*
 C allocation to woody growth is an important parameter in models, yet models get it wrong.
 Therefore, this is an important uncertainty.  

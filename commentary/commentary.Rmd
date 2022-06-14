@@ -74,31 +74,38 @@ In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemp
 *(talk about drought impacts)*
 @martinez-sancho_drought_2022 showed that C sequestration was reduced 67% during a 41-day period of extreme summer drought in 2015, during which time rates of cell enlargement and thickening were slowed. 
 Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
+*(GPP less affected?)[@kannenberg_droughtinduced_2022]*
 However, the total number of cells formed was unchanged, and higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
 Thus, study of intraannual dynamics of wood formation revealed dynamics that would have gone undetected at the annual scale.
 
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing of drought.
 *(some content on how drought timing affects annual growth -- e.g., @dorangeville_drought_2018)*
 
- 
 The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled. 
-...[@jiang_fate_2020]
-...[@dow_warm_inpress]
 ...[@cabon_crossbiome_2022] 
-…. [@kannenberg_droughtinduced_2022]
+….*GPP* is less senstiive to drought than *ANPP~woody~* [@kannenberg_droughtinduced_2022].
+...[@dow_warm_inpress]
+...[@jiang_fate_2020]
 Of course, these observations of decoupling do not imply that *ANPP~woody~* is completely decoupled from *GPP*; rather, the two show some level of correlation both in relation to interannual climatic variation at a single site [@cabon_crossbiome_2022] and across broad climatic gradients [@banburymorgan_global_2021]. 
 However, we now have clear evidence that it is not realistic to expect that a constant allocation of photosynthate will be allocated to woody growth on either intraanuual or interannual time scales.
+This fact has implications for our understanding of the relationship of annual tree growth to climate -- both in the past and in the future. 
 
-*(active vs passive allocation)*
+*(Paragraph on implications for tree-ring studies:)*
+The annual growth records recorded in tree rings are routinely used to understand the climate sensitivity of tree growth and thereby to reconstruct past climates[@fritts_tree_1976] or understand how forest productivity may respond to future climate change [e.g., @cabon_crossbiome_2022; @kannenberg_droughtinduced_2022; @dow_warm_inpress].
+Moreover, as shown by @martinez-sancho_drought_2022, a severe drought might not even register in annual tree-rings if it is short enough that C fixed during the drought [by the less moisture-sensitive process of photosynthesis; @delpierre_wood_2016_verify; @kannenberg_droughtinduced_2022] can bolster late-season wood formation and compensate for missed growth during the drought.
+The implication is that the ability of annual growth rings to capture drought depends on the timing and nature of the drought. 
+*(other implications for tree-ring studies?)*
 
-*(implications for tree-ring studies)*
-
-*(one paragraph discussing models)*
-C allocation to woody growth is an important parameter in models, yet models get it wrong.
-Therefore, this is an important uncertainty.  
+*(one paragraph discussing models:)*
+The decoupling of *ANPP~woody~* from *GPP* also has important implications for global C cycle models. 
+Most models represent C allocation to *ANPP~woody~* as a constant fraction of *GPP* [@ref], and thereby effectively assume that long-term C sequestration in woody growth -- the main variable of interest for climate change projections -- parallels *GPP*. 
+Yet, as reviewed above, this assumption is not accurate and represents an important uncertainty in these models.
+(Models may project over- or under-predict drought sensitivity, depending on the timing and nature of the drought.)
 To get models right, we need to understand seasonal patterns of C allocation to woody growth and how they are influenced by climate variation (and change)
 
 We need more studies like @martinez-sancho_drought_2022 -- bonus if they also get GPP -- to broaden our understanding of how *ANPP~woody~* is jointly shaped by climate-- both directly and indirectly (through GPP).
+
+*(active vs passive allocation)*
 
 \newpage
 

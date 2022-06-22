@@ -23,9 +23,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Authors:** 
 
-Kristina J. Anderson-Teixeira^1,2^* ( Orcid ID : 0000-0001-8461-9713)
+Kristina J. Anderson-Teixeira^1,2^* (Orcid ID : 0000-0001-8461-9713)
 
-Steven A. Kannenberg
+Steven A. Kannenberg^3^ (ORCID: 0000-0002-4097-9140)
 
 
 
@@ -36,6 +36,7 @@ Steven A. Kannenberg
 
 2. Forest Global Earth Observatory; Smithsonian Tropical Research Institute; Panama, Republic of Panama
 
+3. Department of Biology, Colorado State University, Fort Collins, Colorado 80523, USA
 
 
 *corresponding author: teixeirak@si.edu; +1 540 635 6546
@@ -61,8 +62,9 @@ Steven A. Kannenberg
 As the climate changes and scientists seek to project its future course, an important uncertainty lies in the response of forests. 
 Will rising atmospheric carbon dioxide (CO~2~) and lengthening growing seasons relieve limitations to tree growth, allowing increased carbon (C) sequestration in long-lived woody tissues and providing a negative feedback to climate change?
 Or will increasing heat and drought stress reduce growth and increase mortality, resulting in a positive feedback to climate change?
-To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools and rapidly respired back to the atmosphere as CO~2~ [@fatichi_moving_2014]. 
-Yet, there is growing evidence that these schemes are too simplistic, as wood production is in fact decoupled from photosynthesis, being itself directly influenced by climatic drivers [@delpierre_wood_2016; @etzold_number_2022].
+To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools that are more rapidly respired back to the atmosphere as CO~2~ [@fatichi_moving_2014]. 
+Yet, there is growing evidence that these schemes are too simplistic, as wood production is frequently decoupled from photosynthesis [@delpierre_wood_2016; @etzold_number_2022].
+This decoupling arises due to either a) passive limitation of woody tree growth by environmental conditions (as cellular division and enlargement ceases sooner than photosynthesis during periods of temperature or water stress), or b) active allocation away from woody growth to support other sinks (e.g., non-woody tissues, reproduction, respiration, root exudation, non-structural carbohydrate pools.
 Needed, then, is an understanding of how woody growth is jointly shaped by photosynthesis and climate variables under a range of conditions.
 In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change, using an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how this is affected by drought.
 
@@ -106,6 +108,12 @@ To get models right, we need to understand seasonal patterns of C allocation to 
 We need more studies like @martinez-sancho_drought_2022 -- bonus if they also get GPP -- to broaden our understanding of how *ANPP~woody~* is jointly shaped by climate-- both directly and indirectly (through GPP).
 
 *(active vs passive allocation)*
+
+# Misc text to incorporate
+This decoupling arises due to either a) passive limitation of woody tree growth by environmental conditions (as cellular division and enlargement ceases sooner than photosynthesis during periods of temperature or water stress), or b) active allocation away from woody growth to support other sinks (e.g., non-woody tissues, reproduction, respiration, root exudation, non-structural carbohydrate pools). 
+
+Despite growing evidence that C uptake and woody growth are frequently decoupled, we lack a comprehensive understanding regarding: 1) when, where, and why this decoupling occurs, 2) the spatial and temporal scales at which it operates, and 3) the implications for how we understand and model the forest C cycle. Given the complexity of tree physiology and forest C cycling, answering these open questions necessitates cross-scale and cross-methodology approaches. 
+
 
 \newpage
 

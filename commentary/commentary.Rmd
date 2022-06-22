@@ -85,7 +85,7 @@ Thus, study of intraannual dynamics of wood formation revealed a drought impact 
 The fact that a severe drought coinciding with peak growing season had little effect on annual growth is somewhat surprising in the context of other studies. 
 Typically, annual growth is quite sensitive to droughts occurring during the peak season for woody growth [typically May-July in N. hemisphere temperate forests, e.g., @dow_warm_inpress; @dorangeville_drought_2018; @kannenberg_droughtinduced_2022; @refs]. 
 This is because cellular *division and*<!--division too?--> enlargement require adequate turgor pressure and are therefore particularly sensitive to high vapor pressure deficit and water stress [@delpierre_wood_2016;@etzold_number_2022; @zweifel_why_2021; @kannenberg_droughtinduced_2022].
-In the @martinez-sancho_drought_2022 study, a strong start to growth prior to the drought and strong post-drought compensatory response resulted in normal annual growth.
+In the @martinez-sancho_drought_2022 study, a strong start to growth prior to the drought and strong post-drought compensatory response resulted in normal annual woody productivity.
 This was made possible by the relatively short duration of the drought; while short severe droughts can significantly impact annual growth, growth tends to be more sensitive to longer droughts [@dorangeville_drought_2018; @refs].
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing and length of drought in shaping woody productivity and highlight the need for improved understanding of the seasonal dynamics of CO~2~ uptake and woody growth, including their decoupling. 
 

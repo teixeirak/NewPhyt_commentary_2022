@@ -64,20 +64,24 @@ Will rising atmospheric carbon dioxide (CO~2~) and lengthening growing seasons r
 Or will increasing heat and drought stress reduce growth and increase mortality, resulting in a positive feedback to climate change?
 To answer this question, global C cycle models simulate photosynthesis under future conditions, using simple plant C allocation schemes to determine the amount of C sequestered in woody growth versus that allocated to short-lived pools that are more rapidly respired back to the atmosphere as CO~2~ [@fatichi_moving_2014]. 
 Yet, there is growing evidence that these schemes are too simplistic, as wood production is frequently decoupled from photosynthesis [@delpierre_wood_2016; @etzold_number_2022], either through passive limitation of woody tree growth by environmental conditions or active allocation away from woody growth to support other sinks.
-Needed is an understanding of how woody growth is jointly shaped by photosynthesis (i.e., source limitation) and demand from various C sinks (i.e., sink limitation) across species and biomes [@korner_paradigm_2015]. 
-In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change, using an innovative approach to describe the seasonal course of carbon sequestration in tree stem growth and how it is affected by drought.
+Needed, then, is an understanding of how woody growth is jointly shaped by photosynthesis (i.e., source limitation) and demand from various C sinks (i.e., sink limitation) across species and biomes [@korner_paradigm_2015]. 
+In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change, using an innovative approach to describe the seasonal course of C sequestration in tree stem growth and how it is affected by drought.
 
-*(summarize/ explain Martinez-Sancho method)*
-(Builds on methods pioneered by @cuny_generalized_2013, @perez-de-lis_cutting_2022, @cuny_woody_2015.)
+Characterizing the seasonal course of woody growth is challenging, even with frequent dendrometer measurements, because stems shrink and swell in relation to their hydraulic status, and because C sequestration associated with cell wall thickening lags behind radial growth [@cuny_woody_2015; @martinez-sancho_drought_2022].
+To understand the timing of C sequestration, @martinez-sancho_drought_2022 collected weekly microcores to characterize the seasonal timing of wood formation, and then combined this information with a detailed analysis of wood anatomy and C stable isotopes (∂^13^C). <!--following methods pioneered by @cuny_generalized_2013, @perez-de-lis_cutting_2022, @cuny_woody_2015--> 
+In a non-drought year (2014), the rate of cell expansion peaked at the end of June, while rates of cell wall thickening and C sequestration peaked in early July, with all three variables displaying a unimodal peak. 
 
-*(describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)*
- 
 <!--drought impacts-->
-@martinez-sancho_drought_2022 showed that C sequestration was reduced 67% during a 41-day period of extreme summer drought in 2015, during which time rates of cell enlargement and thickening were slowed. 
+Extreme summer drought in 2015 resulted in dramatically different seasonal patterns of woody growth and C sequestration (**Fig. 1**). 
+During a 41-day period from mid-June to late July during which stem radial shrinkage indicated physiological water stress, rates of cell enlargement and thickening were slowed, resulting in bimodal growth and C sequestration curves with peaks before and after the drought. 
+Overall, C sequestration was reduced 67% during the drought period.
 Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
 The ∂^13^C drought signature appeared in wood formed after the drought, indicating that while sink limitations prevented the C fixed during the drought from contributing immediately to woody growth, this C was reserved and used to accelerate growth after the drought. 
 Indeed, higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
-Thus, study of intraannual dynamics of wood formation revealed dynamics that would have gone undetected at the annual scale.
+Thus, study of intraannual dynamics of wood formation revealed a drought impact on growth that would have gone undetected at the annual scale.
+
+![**Figure 1. Schematic summarizing seasonal patterns of woody growth and carbon sequestration of spruce trees during drought and non-drought years.** Based on @martinez-sancho_drought_2022. *DRAFT FIGURE.*](display/figure1.png)
+
 
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing of drought.
 *(some content on how drought timing affects annual growth -- e.g., @dorangeville_drought_2018)*

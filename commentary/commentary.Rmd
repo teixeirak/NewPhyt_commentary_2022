@@ -72,11 +72,11 @@ In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemp
 
 *(describe typical seasonal patterns, including what was known and what Martinez-Sancho contributed.)*
  
-*(talk about drought impacts)*
+<!--drought impacts-->
 @martinez-sancho_drought_2022 showed that C sequestration was reduced 67% during a 41-day period of extreme summer drought in 2015, during which time rates of cell enlargement and thickening were slowed. 
 Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
-*(GPP less affected?)[@kannenberg_droughtinduced_2022]*
-However, the total number of cells formed was unchanged, and higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
+The ∂^13^C drought signature appeared in wood formed after the drought, indicating that while sink limitations prevented the C fixed during the drought from contributing immediately to woody growth, this C was reserved and used to accelerate growth after the drought. 
+Indeed, higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
 Thus, study of intraannual dynamics of wood formation revealed dynamics that would have gone undetected at the annual scale.
 
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing of drought.
@@ -84,7 +84,7 @@ The findings of @martinez-sancho_drought_2022 point to the importance of the tim
 
 The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled. 
 ...[@cabon_crossbiome_2022] 
-….*GPP* is less senstiive to drought than *ANPP~woody~* [@kannenberg_droughtinduced_2022].
+….*GPP* is less sensitive to drought than *ANPP~woody~* [@kannenberg_droughtinduced_2022].
 ...[@dow_warm_inpress]
 ...[@jiang_fate_2020]
 Of course, these observations of decoupling do not imply that *ANPP~woody~* is completely decoupled from *GPP*; rather, the two show some level of correlation both in relation to interannual climatic variation at a single site [@cabon_crossbiome_2022] and across broad climatic gradients [@banburymorgan_global_2021]. 

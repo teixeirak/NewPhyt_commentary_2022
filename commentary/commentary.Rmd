@@ -89,14 +89,22 @@ In the @martinez-sancho_drought_2022 study, a strong start to growth prior to th
 This was made possible by the relatively short duration of the drought; while short severe droughts can significantly impact annual growth, growth tends to be more sensitive to longer droughts [@dorangeville_drought_2018; @refs].
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing and length of drought in shaping woody productivity and highlight the need for improved understanding of the seasonal dynamics of CO~2~ uptake and woody growth, including their decoupling. 
 
-The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled. 
-...[@cabon_crossbiome_2022] 
-….*GPP* is less sensitive to drought than *ANPP~woody~* [@kannenberg_droughtinduced_2022].
-...[@dow_warm_inpress]
-...[@jiang_fate_2020]
-Of course, these observations of decoupling do not imply that *ANPP~woody~* is completely decoupled from *GPP*; rather, the two show some level of correlation both in relation to interannual climatic variation at a single site [@cabon_crossbiome_2022] and across broad climatic gradients [@banburymorgan_global_2021]. 
-However, we now have clear evidence that it is not realistic to expect that a constant allocation of photosynthate will be allocated to woody growth on either intraanuual or interannual time scales.
-This fact has implications for our understanding of the relationship of annual tree growth to climate -- both in the past and in the future. 
+The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled across a range of time scales (**Fig. 2?**).
+On time scales of seconds to hours, photosynthesis and stem growth are completely decoupled, with photosynthesis occurring during the day and most stem growth occurring at night when stem hydration is maximized [@zweifel_why_2021].
+On time scales of days to months, stem growth is influenced by photosynthesis, but is strongly constrained by air and soil moisture [@delpierre_wood_2016;@etzold_number_2022], being more sensitive to drought than *GPP* [@kannenberg_droughtinduced_2022].
+On an annual time scale, woody aboveground net primary productivity (*ANPP~woody~*; stem growth scaled to the ecosystem scale) and *GPP* can be completely uncorrelated [e.g., @delpierre_wood_2016].
+In a cross-biome synthesis of available data, tree-ring widths were weakly correlated with *GPP* (**r< 0.3**), generally with strongest correlation for time windows covering all or part of the period between the summer solstices of the previous and current years [@cabon_crossbiome_2022].
+Yet, ...*(another sentence on Cabon, focused on decoupling)*...
+In temperate deciduous forests, warm springs increase *GPP* but this does not translate into increased stem growth [@dow_warm_inpress].
+Thus, **the preponderance of evidence demonstrates that CO~2~ uptake and sequestration are decoupled in forests** on time scales of up to a year.
+
+An important open question is the extent to which *ANPP~woody~* and *GPP* are coupled on time scales longer than a year, and by extension how global change drivers that alter *GPP* will affect *ANPP~woody~*.
+Over decadal to centennial time scales and across broad climatic gradients, substantial of coupling *ANPP~woody~* and *GPP* is expected, and indeed the two vary roughly in proportion to one another across the latitudinal gradient [@banburymorgan_global_2021].
+However, the decoupling of *ANPP~woody~* and *GPP* implies that global change drivers will affect the two processes differently over time scales of years and longer.
+While sustained decreases in *GPP* will inevitably decrease *ANPP~woody~*, it remains unclear whether sustained *increases* in *GPP* will result in the corresponding increases in *ANPP~woody~* that are effectively assumed in models [@korner_paradigm_2015; @refs]. 
+When *GPP* was increased in response to four years of experimental CO~2~ fertilization of a mature eucalypt forest, *ANPP~woody~* remained unchanged, with extra C being allocated belowground and rapidly respired back to the atmosphere [@jiang_fate_2020].
+Additional studies of C allocation under altered environmental conditions are needed to understand the long-term coupling of *GPP* and *ANPP~woody~* , and by extension how climate change will impact forest C sequestration.
+
 
 *(Paragraph on implications for tree-ring studies:)*
 The annual growth records recorded in tree rings are routinely used to understand the climate sensitivity of tree growth and thereby to reconstruct past climates[@fritts_tree_1976] or understand how forest productivity may respond to future climate change [e.g., @cabon_crossbiome_2022; @kannenberg_droughtinduced_2022; @dow_warm_inpress].

@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \raggedright
 
-**Title:** *What drives forest carbon storage? The ramifications of source-sink decoupling*  OR  *Global change drivers have different impacts on CO~2~ uptake and carbon sequestration*
+**Title:** What drives forest carbon storage? The ramifications of source-sink decoupling
 
 **Authors:** 
 
@@ -44,16 +44,16 @@ Steven A. Kannenberg^3^ (ORCID: 0000-0002-4097-9140)
 
 **keywords:** *(5-8)* <!--5-8 keywords. Should be given after references, but .Rmd can't do that.-->
 
-**quote:** *(A brief quote extracted from the Commentary should be included after the article title.)*
+**quote:** the preponderance of evidence demonstrates that forest CO~2~ uptake and sequestration are decoupled on time scales ranging from seconds to years
 
 
 
 | | count |
 |--|--|
-|words|  *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
+|words|  1608 *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
 |figures|  *(1-2 encouraged)* | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
 |tables| 0 |
-|references | *(15 max)* | <!--max 15-->
+|references | 14 *(15 max)* | <!--max 15-->
 
 
 
@@ -68,11 +68,12 @@ Needed, then, is an understanding of how woody growth is jointly shaped by photo
 In this issue of *New Phytologist*, Martinez-Sancho *et al.* (pp. 000-000) exemplifies the type of research needed to improve our ability to predict forest C sequestration under climate change, using an innovative approach to describe the seasonal course of C sequestration in tree stem growth and how it is affected by drought.
 
 Characterizing the seasonal course of woody growth is challenging, even with frequent dendrometer measurements, because stems shrink and swell in relation to their hydraulic status, and because C sequestration associated with cell wall thickening lags behind radial growth [@cuny_woody_2015; @martinez-sancho_drought_2022].
-To understand the timing of C sequestration, @martinez-sancho_drought_2022 collected weekly microcores to characterize the seasonal timing of wood formation, and then combined this information with a detailed analysis of wood anatomy and C stable isotopes (∂^13^C). <!--following methods pioneered by @cuny_generalized_2013, @perez-de-lis_cutting_2022, @cuny_woody_2015--> 
+To understand the timing of C sequestration, @martinez-sancho_drought_2022 collected weekly microcores from mature *Picea abies* trees to characterize the seasonal timing of wood formation, and then combined this information with a detailed analysis of wood anatomy and C stable isotopes (∂^13^C). <!--following methods pioneered by @cuny_generalized_2013, @perez-de-lis_cutting_2022, @cuny_woody_2015--> 
 In a non-drought year (2014), the rate of cell expansion peaked at the end of June, while rates of cell wall thickening and C sequestration peaked in early July, with all three variables displaying a unimodal peak. 
+These patterns were consistent with other studies showing that tree stem growth rate peaks near the time of the summer solstice, with C sequestration lagging stem radial expansion [@etzold_number_2022;@dow_warm_inpress;@cuny_woody_2015].
 
 <!--drought impacts-->
-Extreme summer drought in 2015 resulted in dramatically different seasonal patterns of woody growth and C sequestration (**Fig. 1**). 
+Extreme summer drought in 2015 resulted in dramatically different seasonal patterns of woody growth and C sequestration [**Fig. 1**, @martinez-sancho_drought_2022]. 
 During a 41-day period from mid-June to late July during which stem radial shrinkage indicated physiological water stress, rates of cell enlargement and thickening were slowed, resulting in bimodal growth and C sequestration curves with peaks before and after the drought. 
 Overall, C sequestration was reduced 67% during the drought period.
 Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
@@ -82,35 +83,34 @@ Thus, study of intraannual dynamics of wood formation revealed a drought impact 
 
 ![**Figure 1. Schematic summarizing seasonal patterns of woody growth and carbon sequestration of spruce trees during drought and non-drought years.** Based on @martinez-sancho_drought_2022. *DRAFT FIGURE.*](display/figure1.png)
 
-The fact that a severe drought coinciding with peak growing season had little effect on annual growth is somewhat surprising in the context of other studies. 
-Typically, annual growth is quite responsive to drought or temperature stress during the peak season for woody growth [typically May-July in N. hemisphere temperate forests, e.g., @dow_warm_inpress; @dorangeville_drought_2018; @kannenberg_droughtinduced_2022; @refs]. 
-This is because cellular enlargement requires adequate turgor pressure and are therefore particularly sensitive to high vapor pressure deficit and water stress [@delpierre_wood_2016;@etzold_number_2022; @zweifel_why_2021; @kannenberg_droughtinduced_2022].
+The fact that a severe drought coinciding with peak growing season had little effect on annual C sequestration is somewhat surprising in the context of other studies. 
+Typically, annual growth is quite responsive to drought or temperature stress during the peak season for woody growth [@dow_warm_inpress; @dorangeville_drought_2018; @kannenberg_droughtinduced_2022]. 
+This is because cellular enlargement requires adequate turgor pressure and is therefore particularly sensitive to aridity [@delpierre_wood_2016;@etzold_number_2022; @zweifel_why_2021; @kannenberg_droughtinduced_2022].
 In the @martinez-sancho_drought_2022 study, a strong start to growth prior to the drought and strong post-drought compensatory response resulted in normal annual woody productivity.
-This was made possible by the relatively short duration of the drought; while short severe droughts can significantly impact annual growth, growth tends to be more sensitive to longer droughts [@dorangeville_drought_2018; @refs].
-The findings of @martinez-sancho_drought_2022 point to the importance of the timing and length of drought in shaping woody productivity and highlight the need for improved understanding of the seasonal dynamics of CO~2~ uptake and woody growth, including their decoupling. 
+This was made possible by the relatively short duration of the drought; while short severe droughts can significantly impact annual growth, growth tends to be more sensitive to longer droughts [@dorangeville_drought_2018].
+The findings of @martinez-sancho_drought_2022 point to the importance of the timing and length of drought in shaping C sequestration and highlight the need for improved understanding of the seasonal dynamics of CO~2~ uptake and woody growth, including their decoupling. 
 
 The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled across a range of time scales (**Fig. 2?**).
-On time scales of seconds to hours, photosynthesis and stem growth are completely decoupled, with photosynthesis occurring during the day and most stem growth occurring at night when stem hydration is maximized [@zweifel_why_2021].
-On time scales of days to months, stem growth is influenced by photosynthesis, but is strongly constrained by air and soil moisture [@delpierre_wood_2016;@etzold_number_2022], being more sensitive to drought than *GPP* [@kannenberg_droughtinduced_2022].
-On an annual time scale, woody aboveground net primary productivity (*ANPP~woody~*; stem growth scaled to the ecosystem scale) and *GPP* can be completely uncorrelated [e.g., @delpierre_wood_2016], implying significant annual variability in C allocation to woody growth versus other sinks (e.g., non-woody tissues, reproduction, respiration, root exudation, non-structural carbohydrate pools).
-In a cross-biome synthesis of available data, tree-ring widths were weakly correlated with *GPP* (**r< 0.3**), generally with strongest correlation for time windows covering all or part of the period between the summer solstices of the previous and current years [@cabon_crossbiome_2022].
-Yet, ...*(another sentence on Cabon, focused on decoupling)*...
-In temperate deciduous forests, warm springs increase *GPP* but this does not translate into increased stem growth [@dow_warm_inpress].
-Thus, **the preponderance of evidence demonstrates that CO~2~ uptake and sequestration are decoupled in forests** on time scales of up to a year.
+On time scales of seconds to hours, photosynthesis and stem growth are completely decoupled, with photosynthesis occurring during the day and most stem radial expansion occurring at night when stem hydration is maximal [@zweifel_why_2021].
+On time scales of days to months, stem growth is influenced by photosynthate availability, but is strongly constrained by temperature and soil moisture [@delpierre_wood_2016;@etzold_number_2022], being more sensitive to drought than *GPP* [@kannenberg_droughtinduced_2022].
+On an annual time scale, woody aboveground net primary productivity (*ANPP~woody~*) and *GPP* can be completely uncorrelated [e.g., @delpierre_wood_2016], implying significant annual variability in C allocation to woody growth versus other sinks (e.g., non-woody tissues, reproduction, respiration, root exudation, non-structural carbohydrate pools).
+In a cross-biome synthesis of available data, tree-ring widths were on average only weakly correlated with *GPP* [r ≤ 0.38, @cabon_crossbiome_2022]. <!--, generally with strongest correlation for time windows covering all or part of the period between the summer solstices of the previous and current years-->
+The observed strong decoupling of *GPP* and annual *ANPP~woody~* implies that global change drivers will have different impacts on CO~2~ uptake and carbon sequestration.
+For instance, while warm springs increase *GPP* in temperate deciduous forests, this does not translate into increased stem growth [@dow_warm_inpress].
+Thus, **the preponderance of evidence demonstrates that forest CO~2~ uptake and sequestration are decoupled on time scales ranging from seconds to years**. <!--this is our highlighted quote --need to modify on cover page if changed here.-->
 
 An important open question is the extent to which *ANPP~woody~* and *GPP* are coupled on decadal to centennial time scales, and by extension how global change drivers that alter *GPP* will affect *ANPP~woody~*.
 Across broad climatic gradients where trees are largely adapted and acclimated to differences in climate, *GPP* and *ANPP~woody~* vary roughly in proportion to one another [@banburymorgan_global_2021].
-However, their decoupling implies that they will respond differently to global change drivers.
+However, these processes may respond differently to global change drivers.
 While sustained decreases in *GPP* will inevitably decrease *ANPP~woody~*, it remains unclear whether sustained *increases* in *GPP* will result in the corresponding increases in *ANPP~woody~*. 
-When *GPP* was increased in response to four years of experimental CO~2~ fertilization of a mature eucalypt forest, *ANPP~woody~* remained unchanged, with extra C being allocated belowground and rapidly respired back to the atmosphere [@jiang_fate_2020].
+When *GPP* increased in response to four years of experimental CO~2~ fertilization of a mature eucalypt forest, *ANPP~woody~* remained unchanged, with the majority of extra C being allocated belowground and rapidly respired back to the atmosphere [@jiang_fate_2020].
 Additional studies of C allocation under altered environmental conditions are needed to understand the long-term coupling of *GPP* and *ANPP~woody~*, and by extension how climate change will impact forest C sequestration.
 
 The decoupling of *ANPP~woody~* from *GPP* has important implications for our understanding of forest C sequestration under a changing climate.
 This is particularly true because decoupling is likely to increase in the future as it is driven, in part, by temperature and water stress.
-The annual growth records recorded in tree rings are routinely used to understand the climate sensitivity of tree growth and thereby to reconstruct past climates[@fritts_tree_1976] or understand how forest productivity may respond to future climate change [e.g., @cabon_crossbiome_2022; @kannenberg_droughtinduced_2022; @dow_warm_inpress], yet @martinez-sancho_drought_2022 demonstrate that a severe drought might not even register in annual tree-rings if it is short enough that C fixed during the drought can bolster late-season wood formation and compensate for missed growth during the drought. The implication is that we may be underestimating the historical frequency and physiological significance of droughts. 
-Moreover, st global C cycle models represent C allocation to *ANPP~woody~* as a constant fraction of *GPP* [@ref], and thereby effectively assume that long-term C sequestration in woody growth -- the main variable of interest for climate change projections -- parallels *GPP*.
+Most global C cycle models represent C allocation to *ANPP~woody~* as a constant fraction of *GPP* [@friend_need_2019], and thereby effectively assume that long-term C sequestration in woody growth -- the main variable of interest for climate change projections -- parallels *GPP*.
 Yet, as reviewed above, this assumption is not accurate, with the implication that models may over- or under-predict forest sensitivity to global change drivers.
-For instance, models would be likely to overestimate the sensitivity of *ANPP~woody~* to relatively short droughts [e.g., @martinez-sancho_drought_2022] but underestimate its sensitivity to longer droughts [@kannenberg_droughtinduced_2022]
+For instance, models would be likely to overestimate the sensitivity of *ANPP~woody~* to relatively short droughts [e.g., @martinez-sancho_drought_2022] but underestimate its sensitivity to longer droughts [@kannenberg_droughtinduced_2022], while overestimating *ANPP~woody~* of temperate deciduous forests under warming spring temperatures [@dow_warm_inpress].
 To reduce uncertainty regarding the future impact of global change on forest C sequestration, we need to develop comprehensive understanding regarding: 1) when, where, and why decoupling occurs, 2) the spatial and temporal scales at which it operates, and 3) the implications for how we understand and model the forest C cycle. 
 Given the complexity of tree physiology and forest C cycling, answering these open questions necessitates cross-scale and cross-methodology approaches, spanning from wood formation [@martinez-sancho_drought_2022] to dendroecology, micrometeorology, and modeling. 
 

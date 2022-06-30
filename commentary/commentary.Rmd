@@ -81,7 +81,7 @@ The ∂^13^C drought signature appeared in wood formed after the drought, indica
 Indeed, higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
 Thus, study of intraannual dynamics of wood formation revealed a drought impact on growth that would have gone undetected at the annual scale.
 
-![**Figure 1. Schematic summarizing seasonal patterns of woody growth and carbon sequestration of spruce trees during drought and non-drought years.** Based on @martinez-sancho_drought_2022. *DRAFT FIGURE.*](display/figure1.png)
+![**Figure 1. Schematic summarizing the effects of a severe summer drought on seasonal patterns in CO~2~ uptake (photosynthesis) and C sequestration (woody growth).** Based on @martinez-sancho_drought_2022, which combined weekly microcores with a detailed analysis of wood anatomy and C stable isotopes (∂^13^C) to understand the seasonal dynamics of C sequestration in four mature *Picea abies* trees in a Swiss valley.](display/Figure1.png)
 
 The fact that a severe drought coinciding with peak growing season had little effect on annual C sequestration is somewhat surprising in the context of other studies. 
 Typically, annual growth is quite responsive to drought or temperature stress during the peak season for woody growth [@dow_warm_inpress; @dorangeville_drought_2018; @kannenberg_droughtinduced_2022]. 
@@ -99,7 +99,7 @@ The observed strong decoupling of *GPP* and annual *ANPP~woody~* implies that gl
 For instance, while warm springs increase *GPP* in temperate deciduous forests, this does not translate into increased stem growth [@dow_warm_inpress].
 Thus, **the preponderance of evidence demonstrates that forest CO~2~ uptake and sequestration are decoupled on time scales ranging from seconds to years**. <!--this is our highlighted quote --need to modify on cover page if changed here.-->
 
-![**Figure 2. Schematic summarizing the relationship between photosynthesis and wood formation across various time scales.** Red wedges indicate integration across time and space. *DRAFT FIGURE. I'm thinking of watercolor paintings of the trees, scanned images of a core and annual rings.*](display/figure2.png)
+![**Figure 2. Schematic summarizing the relationship between photosynthesis and wood formation across various time scales.** Red wedges indicate integration across time and space. *DRAFT FIGURE. I'm thinking of watercolor paintings of the trees, scanned images of a core and annual rings.*](display/figure2_draft.png)
 
 An important open question is the extent to which *ANPP~woody~* and *GPP* are coupled on decadal to centennial time scales, and by extension how global change drivers that alter *GPP* will affect *ANPP~woody~*.
 Across broad climatic gradients where trees are largely adapted and acclimated to differences in climate, *GPP* and *ANPP~woody~* vary roughly in proportion to one another [@banburymorgan_global_2021].

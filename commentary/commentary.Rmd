@@ -50,7 +50,7 @@ Steven A. Kannenberg^3^ (ORCID: 0000-0002-4097-9140)
 
 | | count |
 |--|--|
-|words|  1608 *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
+|words|  1454 *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
 |figures|  *(1-2 encouraged)* | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
 |tables| 0 |
 |references | 14 *(15 max)* | <!--max 15-->
@@ -77,7 +77,7 @@ Extreme summer drought in 2015 resulted in dramatically different seasonal patte
 During a 41-day period from mid-June to late July during which stem radial shrinkage indicated physiological water stress, rates of cell enlargement and thickening were slowed, resulting in bimodal growth and C sequestration curves with peaks before and after the drought. 
 Overall, C sequestration was reduced 67% during the drought period.
 Meanwhile, ∂^13^C isotopes indicated increased C isotope discrimination, indicative of water limitation resulting in higher intrinsic water use efficiency during the drought. 
-The ∂^13^C drought signature appeared in wood formed after the drought, indicating that while sink limitations prevented the C fixed during the drought from contributing immediately to woody growth, this C was reserved and used to accelerate growth after the drought. 
+The ∂^13^C drought signature appeared in wood formed after the drought, suggesting that while sink limitations prevented the C fixed during the drought from contributing immediately to woody growth, this C was reserved and used to accelerate growth after the drought. 
 Indeed, higher compensatory growth and C sequestration rates after the drought resulted in similar total C sequestration during the drought and reference years [@martinez-sancho_drought_2022].
 Thus, study of intraannual dynamics of wood formation revealed a drought impact on growth that would have gone undetected at the annual scale.
 

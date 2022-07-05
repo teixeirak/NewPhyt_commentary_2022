@@ -53,7 +53,7 @@ Steven A. Kannenberg^3^ (ORCID: 0000-0002-4097-9140)
 |words|  1454 *(1500 max)* | <!--1200– 1500 words (~6-10 par) -->
 |figures|  *(1-2 encouraged)* | <!--encouraged to use one or two figures (or tables/ boxes) in addition to help the explanation or simply to illustrate the general area-->
 |tables| 0 |
-|references | 14 *(15 max)* | <!--max 15-->
+|references | 13 *(15 max)* | <!--max 15-->
 
 
 
@@ -114,7 +114,7 @@ Most global C cycle models represent C allocation to *ANPP~woody~* as a constant
 Yet, as reviewed above, this assumption is not accurate, with the implication that models may over- or under-predict forest sensitivity to global change drivers.
 For instance, models would be likely to overestimate the sensitivity of *ANPP~woody~* to relatively short droughts [e.g., @martinez-sancho_drought_2022] but underestimate its sensitivity to longer droughts [@kannenberg_droughtinduced_2022], while overestimating *ANPP~woody~* of temperate deciduous forests under warming spring temperatures [@dow_warm_inpress].
 To reduce uncertainty regarding the future impact of global change on forest C sequestration, we need to develop comprehensive understanding regarding: 1) when, where, and why decoupling occurs, 2) the spatial and temporal scales at which it operates, and 3) the implications for how we understand and model the forest C cycle. 
-Given the complexity of tree physiology and forest C cycling, answering these open questions necessitates cross-scale and cross-methodology approaches, spanning from wood formation [@martinez-sancho_drought_2022] to dendroecology, micrometeorology, and modeling. 
+Given the complexity of tree physiology and forest C cycling, answering these open questions necessitates cross-scale and cross-methodology approaches, spanning from wood formation [@martinez-sancho_drought_2022] to dendroecology, eddy covariance, and modeling. 
 
 
 \newpage

@@ -90,7 +90,7 @@ In the @martinez-sancho_drought_2022 study, a strong start to growth prior to th
 This was made possible by the relatively short duration of the drought; while short severe droughts can significantly impact annual growth, growth tends to be more sensitive to longer droughts [@dorangeville_drought_2018].
 The findings of @martinez-sancho_drought_2022 point to the importance of the timing and length of drought in shaping C sequestration and highlight the need for improved understanding of the seasonal dynamics of CO~2~ uptake and woody growth, including their decoupling. 
 
-The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled across a range of time scales (**Fig. 2?**).
+The @martinez-sancho_drought_2022 study adds to growing evidence that CO~2~ uptake and woody production are decoupled across a range of time scales (**Fig. 2**).
 On time scales of seconds to hours, photosynthesis and stem growth are completely decoupled, with photosynthesis occurring during the day and most stem radial expansion occurring at night when stem hydration is maximal [@zweifel_why_2021].
 On time scales of days to months, stem growth is influenced by photosynthate availability, but is strongly constrained by temperature and soil moisture [@delpierre_wood_2016;@etzold_number_2022], being more sensitive to drought than *GPP* [@kannenberg_droughtinduced_2022].
 On an annual time scale, woody aboveground net primary productivity (*ANPP~woody~*) and *GPP* can be completely uncorrelated [e.g., @delpierre_wood_2016], implying significant annual variability in C allocation to woody growth versus other sinks (e.g., non-woody tissues, reproduction, respiration, root exudation, non-structural carbohydrate pools).
@@ -99,7 +99,7 @@ The observed strong decoupling of *GPP* and annual *ANPP~woody~* implies that gl
 For instance, while warm springs increase *GPP* in temperate deciduous forests, this does not translate into increased stem growth [@dow_warm_inpress].
 Thus, **the preponderance of evidence demonstrates that forest CO~2~ uptake and sequestration are decoupled on time scales ranging from seconds to years**. <!--this is our highlighted quote --need to modify on cover page if changed here.-->
 
-![**Figure 2. Schematic summarizing sources of decoupling between CO~2~ uptake and C sequestration across various time scales.** Text boxes indicate important sources of decoupling; wedges indicate integration across time and space.](display/figure2.png)
+![**Figure 2. Schematic summarizing sources of decoupling between CO~2~ uptake and C sequestration across various time scales.** Across scales, various processes (text boxes) decouple C sequestration (wood formation or woody productivity, *ANPP~woody~*, on the ecosystems scale) from CO~2~ uptake (photosynthesis or gross primary productivity, *GPP*, on the ecosystems scale). Shaded wedges indicate integration across time and space. Tree ring images courtesy of Elisabet Martínez-Sancho (close-up of annual ring) and Steven A. Kannenberg (annual rings). Watercolor paintings by Kristina J. Anderson-Teixeira.](display/figure2.png)
 
 An important open question is the extent to which *ANPP~woody~* and *GPP* are coupled on decadal to centennial time scales, and by extension how global change drivers that alter *GPP* will affect *ANPP~woody~*.
 Across broad climatic gradients where trees are largely adapted and acclimated to differences in climate, *GPP* and *ANPP~woody~* vary roughly in proportion to one another [@banburymorgan_global_2021].

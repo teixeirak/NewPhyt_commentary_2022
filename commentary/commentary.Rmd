@@ -99,7 +99,7 @@ The observed strong decoupling of *GPP* and annual *ANPP~woody~* implies that gl
 For instance, while warm springs increase *GPP* in temperate deciduous forests, this does not translate into increased stem growth [@dow_warm_inpress].
 Thus, **the preponderance of evidence demonstrates that forest CO~2~ uptake and sequestration are decoupled on time scales ranging from seconds to years**. <!--this is our highlighted quote --need to modify on cover page if changed here.-->
 
-![**Figure 2. Schematic summarizing the relationship between photosynthesis and wood formation across various time scales.** Red wedges indicate integration across time and space. *DRAFT FIGURE. I'm thinking of watercolor paintings of the trees, scanned images of a core and annual rings.*](display/figure2_draft.png)
+![**Figure 2. Schematic summarizing sources of decoupling between CO~2~ uptake and C sequestration across various time scales.** Text boxes indicate important sources of decoupling; wedges indicate integration across time and space.](display/figure2.png)
 
 An important open question is the extent to which *ANPP~woody~* and *GPP* are coupled on decadal to centennial time scales, and by extension how global change drivers that alter *GPP* will affect *ANPP~woody~*.
 Across broad climatic gradients where trees are largely adapted and acclimated to differences in climate, *GPP* and *ANPP~woody~* vary roughly in proportion to one another [@banburymorgan_global_2021].
